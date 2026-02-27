@@ -26,3 +26,4 @@ node server.js
 - `/` → Vérification API
 - `/notes` → Liste des notes
 - `/notes/:slug` → Affichage d’une note
+Déclenchement du workflow CI.
